@@ -1,0 +1,5 @@
+D:\SampleProjectsDump\SMPS\SMPS.CrossCutting\bin\Debug\SMPS.CrossCutting.dll
+D:\SampleProjectsDump\SMPS\SMPS.CrossCutting\bin\Debug\SMPS.CrossCutting.pdb
+D:\SampleProjectsDump\SMPS\SMPS.CrossCutting\obj\Debug\SMPS.CrossCutting.csprojResolveAssemblyReference.cache
+D:\SampleProjectsDump\SMPS\SMPS.CrossCutting\obj\Debug\SMPS.CrossCutting.dll
+D:\SampleProjectsDump\SMPS\SMPS.CrossCutting\obj\Debug\SMPS.CrossCutting.pdb

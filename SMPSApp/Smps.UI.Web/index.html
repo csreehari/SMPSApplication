@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>SMPS - EPAM</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">    
+    <!--Start : Compatible for the devices -->
+    <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0" />
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!--Start : Linking fav Icon to the application  -->
+    <link rel="shortcut icon" type="image/png" href="/favicon.ico" />
+    <!--End : Linking fav Icon to the application  -->
+
+    <!--Start : Cascading Style Sheets Block -->
+    <!--Start : Boot Strap Cascading Style Sheets -->
+    <link href="./Content/bootstrap.css" rel="stylesheet" />
+    <link href="./Content/bootstrap-theme.css" rel="stylesheet" />
+    <!--Start : Application Cascading Style Sheets -->
+    <link href="./Content/Site.css" rel="stylesheet" />
+    <!-- Custom CSS -->
+    <link href="./LandingTheme/css/landing-page.css" rel="stylesheet">
+    <!--End : Cascading Style Sheets Block -->
+    <!-- Custom Fonts -->
+    <link href="./LandingTheme/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <!--Start : Block for JS Files -->
+    <!-- Start : Library files  -->
+    <script src="./Scripts/jquery-3.1.1.js"></script>
+    <script src="./Scripts/bootstrap.js"></script>
+    <script src="./Scripts/angular.js"></script>
+    <script src="./Scripts/angular-ui-router.js"></script>
+    <!-- End : Library files  -->
+    <!-- Start : Application spefic angular files  -->
+    <script src="./Application/app.js"></script>
+    <script src="./Application/UserAccount/userAccountService.js"></script>
+    <script src="./Application/UserAccount/loginCtrl.js"></script>
+    <script src="./Application/Holder/holderCtrl.js"></script>
+    <!-- End : Application spefic angular files  -->
+    <!--End : Block for JS Files -->
+
+</head>
+<body ng-app="SMPSapp">
+    <!--Start Calling angular views to display the content  -->
+    <!-- Header -->
+    <div class="intro-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="intro-message">
+                        <div class="container-fluid">
+                            <div ui-view=""></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <!-- /.container -->
+    </div>
+    <!-- /.intro-header -->
+    <!--End Calling angular views to display the content  -->
+</body>
+</html>

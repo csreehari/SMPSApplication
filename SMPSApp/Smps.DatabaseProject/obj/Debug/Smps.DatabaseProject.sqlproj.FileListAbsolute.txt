@@ -1,0 +1,9 @@
+D:\SampleProjectsDump\SMPS\Smps.DatabaseProject\bin\Debug\Smps.dacpac
+D:\SampleProjectsDump\SMPS\Smps.DatabaseProject\bin\Debug\SMPS.DatabaseProject.dll
+D:\SampleProjectsDump\SMPS\Smps.DatabaseProject\bin\Debug\SMPS.DatabaseProject.pdb
+D:\SampleProjectsDump\SMPS\Smps.DatabaseProject\obj\Debug\Model.xml
+D:\SampleProjectsDump\SMPS\Smps.DatabaseProject\obj\Debug\refactor.xml
+D:\SampleProjectsDump\SMPS\Smps.DatabaseProject\obj\Debug\postdeploy.sql
+D:\SampleProjectsDump\SMPS\Smps.DatabaseProject\obj\Debug\predeploy.sql
+D:\SampleProjectsDump\SMPS\Smps.DatabaseProject\obj\Debug\SMPS.DatabaseProject.dll
+D:\SampleProjectsDump\SMPS\Smps.DatabaseProject\obj\Debug\SMPS.DatabaseProject.pdb
